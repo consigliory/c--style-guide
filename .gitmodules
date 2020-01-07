@@ -1,0 +1,3 @@
+[submodule "definition-of-done"]
+	path = definition-of-done
+	url = https://github.com/consigliory/definition-of-done.git
